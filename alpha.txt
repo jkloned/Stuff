@@ -1,6 +1,18 @@
 Let's Hope This Works!
 
+<<<<<<< HEAD
 It did. Know lets see if it works with a push.
 
 
 This is diff. Let's see if Git can see it.
+=======
+
+
+So I am still learning. I hope that I am able to grasp this material.
+
+No one new is here. I have been here all along.
+
+>>>>>>> 3469ab2237b0ef62f94d1231138340a585dd5ac2
+
+
+I feel like I am getting lost with all of these git operations.
